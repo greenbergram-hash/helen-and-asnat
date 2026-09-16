@@ -43,3 +43,7 @@ The complete Wix galleries are preserved: 52 works on iron, 14 sculptures, and 2
 ## Validation
 
 Local HTTP preview, page and asset existence checks, and JavaScript syntax validation were performed. Automated visual browser testing was unavailable in this environment; review the preview on desktop and mobile before switching the domain.
+
+## Approved design
+
+The homepage combines the introduction beside a large artwork with all 52 works below. All Works on iron links lead to the homepage; the old route redirects there. `preview.css` contains the approved layout refinements and is required in production.
