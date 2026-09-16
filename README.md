@@ -38,7 +38,7 @@ Each page is an ordinary `index.html` file. Edit text directly in GitHub's file 
 
 The published Wix sitemap's 10 routes are included, with folder-based URLs. GitHub Pages redirects ordinary directory requests to a trailing slash. Artist statements and Doron Polak's essay retain the original wording. Exhibition entries span 2005–2013 as on the source website. The statement mentions Jerusalem; the contact page lists Herzliya. Please confirm whether the historical statement should be updated.
 
-47 original image files were recovered and converted to optimized local copies. Artwork titles, dimensions and dates were not invented where the source omitted them. The unused old home page remains at `copy-of-home-check-1/` to preserve incoming links.
+The complete Wix galleries are preserved: 52 works on iron, 14 sculptures, and 24 material details, plus the exhibition photographs. Original titles, descriptions, materials and dimensions are displayed on each gallery card and in the enlarged viewer. `artworks.json` records the source metadata and local image mapping. Work Sans ExtraLight is hosted locally and uses the original site’s bold styling. The unused old home page remains at `copy-of-home-check-1/` to preserve incoming links.
 
 ## Validation
 
